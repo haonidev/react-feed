@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #121214;
+    color: darkgrey;
+}
+
+
+:root {
+    --gray-900: #030303; /* Substitua pelo valor desejado */
+    --gray-800: #353636; /* Substitua pelo valor desejado */
+    --gray-700: #626363; /* Substitua pelo valor desejado */
+    --gray-600: #818282; /* Substitua pelo valor desejado */
+    --gray-500: #999a9b; /* Substitua pelo valor desejado */
+    --gray-400: #a7a7a7; /* Substitua pelo valor desejado */
+    --gray-300: #afb0b1; /* Substitua pelo valor desejado */
+    --gray-200: #c4c6c7; /* Substitua pelo valor desejado */
+    --gray-100: #eaebed; /* Substitua pelo valor desejado */
+
+    --green-900: #073807; /* Substitua pelo valor desejado */
+    --green-800: #065316; /* Substitua pelo valor desejado */
+    --green-700: #008f21; /* Substitua pelo valor desejado */
+    --green-600: #00c62e; /* Substitua pelo valor desejado */
+    --green-500: #00ff40; /* Substitua pelo valor desejado */
+    --green-400: #57fb80; /* Substitua pelo valor desejado */
+    --green-200: #74fb93; /* Substitua pelo valor desejado */
+    --green-300: #a1f6b5; /* Substitua pelo valor desejado */
+    --green-100: #d9ffe2; /* Substitua pelo valor desejado */
+
+    --red-900: #3a0000; /* Substitua pelo valor desejado */
+    --red-800: #660000; /* Substitua pelo valor desejado */
+    --red-700: #990000; /* Substitua pelo valor desejado */
+    --red-600: #ff0000; /* Substitua pelo valor desejado */
+    --red-500: #ff0000; /* Substitua pelo valor desejado */
+    --red-400: #ff4d4d; /* Substitua pelo valor desejado */
+    --red-300: #ff7a7a; /* Substitua pelo valor desejado */
+    --red-200: #ff9e9e; /* Substitua pelo valor desejado */
+    --red-100: #ffd9d9; /* Substitua pelo valor desejado */
+
+}
+
+:focus {
+    outline: 2px solid var(--green-700);
+    outline-offset: 2px;
+}       
